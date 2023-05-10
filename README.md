@@ -16,7 +16,7 @@ This project leverages python 3.7 with the following packages:
 
 ## Data
 
-The data used for this project was provided by the Data Analytics Bootcamp, and it is in the [Resources](Resources\crypto_market_data.csv) folder of this repository.
+The data used for this project was provided by the Data Analytics Bootcamp, and it is in the [Resources](Resources/crypto_market_data.csv) folder of this repository.
 
 ---
 
